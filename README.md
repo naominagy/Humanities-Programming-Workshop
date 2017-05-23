@@ -11,3 +11,7 @@ can make emojis
 * There's a github site for emoji code. : clap:
 
 Now creating a link to my second file [second file] (https://github.com/naominagy/Humanities-Programming-Workshop/blob/master/Second%20File)
+
+
+Looking at various versions. Red shows old text. Green highlight shows next text.
+
