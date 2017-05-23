@@ -1,0 +1,9 @@
+#Intro
+
+Some info about the research I am doing.
+More info. 
+You need 2 spaces at the end of a line to create a carriage return.
+
+This line is added in a text editor called Nano, in Terminal.
+But then I used open -e SecondFile.txt
+	Now it opens in TextEdit.
