@@ -9,3 +9,5 @@ It has notes from the workshop.
 ## Starting the second version (so it will be saved as 3rd commit)
 can make emojis
 * There's a github site for emoji code. : clap:
+
+Now creating a link to my second file [second file] (https://github.com/naominagy/Humanities-Programming-Workshop/blob/master/Second%20File)
